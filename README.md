@@ -7,7 +7,7 @@
 
 </div>
 
-## Why I Build · 我为什么做开发
+## What I Build for · 我为什么开发
 
 - Get ideas into people’s hands sooner.  
   让想法更快变成别人用得上的东西。
