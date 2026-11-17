@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm YuAn · 你好，我是遇安
+# Hi, I'm YuAn 
 
 **Imagination builds tomorrow.**  
 用想象力创造明天。
